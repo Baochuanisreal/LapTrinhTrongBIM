@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ALPHABIM\\Baitapbim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|e:\\alphabim\\baitapbim\\baitapbim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|solutionrelative:baitapbim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|E:\\ALPHABIM\\Baitapbim\\baitapbim\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|solutionrelative:baitapbim\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|E:\\ALPHABIM\\Baitapbim\\baitapbim\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4B7B8-DD83-42F6-9F7A-23F77A27876B}|Baitapbim\\Baitapbim.csproj|solutionrelative:baitapbim\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Character.cs",
+              "RelativeDocumentMoniker": "Baitapbim\\Character.cs",
+              "ToolTip": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Character.cs",
+              "RelativeToolTip": "Baitapbim\\Character.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:51:10.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Person.cs",
+              "RelativeDocumentMoniker": "Baitapbim\\Person.cs",
+              "ToolTip": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Person.cs",
+              "RelativeToolTip": "Baitapbim\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T02:51:41.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Program.cs",
+              "RelativeDocumentMoniker": "Baitapbim\\Program.cs",
+              "ToolTip": "E:\\ALPHABIM\\Baitapbim\\Baitapbim\\Program.cs",
+              "RelativeToolTip": "Baitapbim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:38:19.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\ALPHABIM\Baitapbim\Baitapbim\bin\Debug\Baitapbim.exe.config
+E:\ALPHABIM\Baitapbim\Baitapbim\bin\Debug\Baitapbim.exe
+E:\ALPHABIM\Baitapbim\Baitapbim\bin\Debug\Baitapbim.pdb
+E:\ALPHABIM\Baitapbim\Baitapbim\obj\Debug\Baitapbim.csproj.AssemblyReference.cache
+E:\ALPHABIM\Baitapbim\Baitapbim\obj\Debug\Baitapbim.csproj.CoreCompileInputs.cache
+E:\ALPHABIM\Baitapbim\Baitapbim\obj\Debug\Baitapbim.exe
+E:\ALPHABIM\Baitapbim\Baitapbim\obj\Debug\Baitapbim.pdb
