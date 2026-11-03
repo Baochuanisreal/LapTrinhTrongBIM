@@ -12,12 +12,13 @@ namespace Baitapbim
         public int height;
         public int weight;
         public bool isMale;
-        public Person(string name, int height, int weight, bool isMale)
+        public Person(string _name, int _height, int _weight, bool _isMale)
         {
-            this.name = name;
-            this.height = height;
-            this.weight = weight;
-            this.isMale = isMale;
-        }   
+            this.name = _name;
+            this.height = _height;
+            this.weight = _weight;
+            this.isMale = _isMale;
+        }
+        
     }
 }
